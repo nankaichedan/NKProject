@@ -1,0 +1,9 @@
+#surefire
+#Sun May 24 19:37:03 CST 2015
+maven.ext.class.path=D\:\\Program Files\\netbeans\\NetBeans 8.0.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=D\:\\Program Files\\netbeans\\glassfish-4.1\\docs\\javaee-tutorial\\examples\\web\\websocket\\websocketbot
+file.encoding=UTF-8
+localRepository=D\:\\Program Files\\netbeans\\NetBeans 8.0.2\\java\\maven\\lib\\ext
+netbeans.deploy=true
+netbeans.deploy.debugmode=true
+basedir=D\:\\Program Files\\netbeans\\glassfish-4.1\\docs\\javaee-tutorial\\examples\\web\\websocket\\websocketbot

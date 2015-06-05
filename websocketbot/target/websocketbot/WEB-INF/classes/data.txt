@@ -1,0 +1,57 @@
+Audi     	奥迪	德国	大众
+BMW  	宝马	德国	BMW
+Maybach	迈巴赫	德国	戴姆勒
+Porsche	保时捷	德国	大众
+Volkswagen	大众	德国	大众
+Ferrari	法拉利	意大利	菲亚特克莱斯勒汽车
+Benz	奔驰	德国	戴姆勒
+Lamborghini	兰博基尼	意大利	大众
+Maserati	玛莎拉蒂	意大利	菲亚特克莱斯勒汽车
+Pagani	帕加尼	意大利	
+Aston Martin	阿斯顿马丁	英国	
+Bentley	宾利	英国	大众
+Daimler	戴姆勒	英国	塔塔汽车
+Land Rover	路虎	英国	塔塔汽车
+MG      	名爵	英国	上汽
+Rolls-Royce	劳斯莱斯	英国	BMW
+Bugatti	布加迪	法国	大众
+Citron	雪铁龙	法国	标致雪铁龙
+Jaguar	捷豹	法国	塔塔汽车
+Peugeot	标致	法国	标致雪铁龙
+Renault	雷诺	法国	雷诺-日产联盟
+Buick 	别克	美国	通用汽车
+Cadillac	凯迪拉克	美国	通用汽车
+Chevrolet	雪佛兰	美国	通用汽车
+Chrysler	克莱斯勒	美国	菲亚特克莱斯勒汽车
+Dodge	道奇	美国	菲亚特克莱斯勒汽车
+Ford     	福特	美国	福特汽车
+Chevrolet	雪佛兰	美国	通用汽车
+HUMMER	悍马	美国	通用汽车
+Jeep     	吉普	美国	菲亚特克莱斯勒汽车
+Lincoln	林肯	美国	福特汽车
+Tesla 	特斯啦	美国	
+Fuso     	三菱扶桑	日本	戴姆勒
+Honda	本田	日本	本田汽车
+Infiniti	英菲尼迪	日本	雷诺-日产联盟
+Isuzu	五十铃	日本	
+Lexus	雷克萨斯	日本	丰田汽车
+Mazda	马自达	日本	马自达
+Nissan	尼桑	日本	雷诺-日产联盟
+Subaru	斯巴鲁 	日本	
+Suzuki	铃木	日本	
+Toyota	丰田	日本	丰田汽车
+Daewoo	大宇	韩国	通用汽车
+Hyundai	现代	韩国	现代汽车
+KIA   	起亚	韩国	现代汽车
+Volvo	沃尔沃	瑞典	
+CMC 	中華	台湾	华晨
+Alfa Romeo	阿尔法罗密欧	意大利	FIAT
+Xiali  	夏利	中国	中国第一汽车
+BYD  	比亚迪	中国	
+Smart	精灵	德国	戴姆勒
+Chery	奇瑞	中国	
+FIAT	菲亚特	意大利	菲亚特克莱斯勒汽车
+Hongqi	红旗	中国	中国第一汽车
+Foton	福田	中国	
+Geely	吉利	中国	吉利
+GreatWall	长城	中国	

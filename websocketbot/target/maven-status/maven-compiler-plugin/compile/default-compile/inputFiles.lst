@@ -1,0 +1,14 @@
+D:\Program Files\netbeans\glassfish-4.1\docs\javaee-tutorial\examples\web\websocket\websocketbot\src\main\java\javaeetutorial\web\websocketbot\messages\JoinMessage.java
+D:\Program Files\netbeans\glassfish-4.1\docs\javaee-tutorial\examples\web\websocket\websocketbot\src\main\java\javaeetutorial\web\websocketbot\decoders\MessageDecoder.java
+D:\Program Files\netbeans\glassfish-4.1\docs\javaee-tutorial\examples\web\websocket\websocketbot\src\main\java\javaeetutorial\web\websocketbot\encoders\InfoMessageEncoder.java
+D:\Program Files\netbeans\glassfish-4.1\docs\javaee-tutorial\examples\web\websocket\websocketbot\src\main\java\javaeetutorial\web\websocketbot\encoders\JoinMessageEncoder.java
+D:\Program Files\netbeans\glassfish-4.1\docs\javaee-tutorial\examples\web\websocket\websocketbot\src\main\java\javaeetutorial\web\websocketbot\encoders\ChatMessageEncoder.java
+D:\Program Files\netbeans\glassfish-4.1\docs\javaee-tutorial\examples\web\websocket\websocketbot\src\main\java\javaeetutorial\web\websocketbot\encoders\UsersMessageEncoder.java
+D:\Program Files\netbeans\glassfish-4.1\docs\javaee-tutorial\examples\web\websocket\websocketbot\src\main\java\javaeetutorial\web\websocketbot\Init.java
+D:\Program Files\netbeans\glassfish-4.1\docs\javaee-tutorial\examples\web\websocket\websocketbot\src\main\java\javaeetutorial\web\websocketbot\BotBean.java
+D:\Program Files\netbeans\glassfish-4.1\docs\javaee-tutorial\examples\web\websocket\websocketbot\src\main\java\javaeetutorial\web\websocketbot\messages\Message.java
+D:\Program Files\netbeans\glassfish-4.1\docs\javaee-tutorial\examples\web\websocket\websocketbot\src\main\java\javaeetutorial\web\websocketbot\messages\InfoMessage.java
+D:\Program Files\netbeans\glassfish-4.1\docs\javaee-tutorial\examples\web\websocket\websocketbot\src\main\java\javaeetutorial\web\websocketbot\Car.java
+D:\Program Files\netbeans\glassfish-4.1\docs\javaee-tutorial\examples\web\websocket\websocketbot\src\main\java\javaeetutorial\web\websocketbot\messages\UsersMessage.java
+D:\Program Files\netbeans\glassfish-4.1\docs\javaee-tutorial\examples\web\websocket\websocketbot\src\main\java\javaeetutorial\web\websocketbot\messages\ChatMessage.java
+D:\Program Files\netbeans\glassfish-4.1\docs\javaee-tutorial\examples\web\websocket\websocketbot\src\main\java\javaeetutorial\web\websocketbot\BotEndpoint.java
